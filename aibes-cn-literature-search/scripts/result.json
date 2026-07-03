@@ -1,0 +1,166 @@
+{
+  "keyword": "人工智能",
+  "timestamp": "2026-07-02T19:56:28.126943",
+  "sources": [
+    {
+      "source": "baidu-xueshu",
+      "status": "ok",
+      "count": 5,
+      "results": [
+        {
+          "title": "不确定性人工智能",
+          "authors": [
+            "李德毅",
+            "刘常昱",
+            "杜鹢"
+          ],
+          "source": "《软件学报》",
+          "date": "2004",
+          "link": "https://xueshu.baidu.com/usercenter/paper/show?paperid=eeaa55e67cf2989d270a0199ab917b58&site=xueshu_se",
+          "abstract": "在主,客观世界普遍存在的不确定性中,随机性和模糊性是最重要的两种形式.研究了随机性和模糊性之间的关联性,统一用熵作为客观事物和主观认知中不确定状态的度量,用超熵来度量不确定状态的变化,并利用熵和超熵进一步研究了混沌,分形和复杂网络中的不确定性,以及由此带来的种种进化和变异,为实现不确定性人工智能找到了一种简单,有效的形式化方法,也为包括形象思维在内的不确定性... 查看全部>>",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊"
+        },
+        {
+          "title": "不确定性人工智能",
+          "authors": [
+            "李德毅",
+            "刘常昱",
+            "杜鹢"
+          ],
+          "source": "",
+          "date": "2005",
+          "link": "https://xueshu.baidu.com/usercenter/paper/show?paperid=e032855b57ff2cef977ef7c49b7e1cae&site=xueshu_se",
+          "abstract": "本书回顾了人工智能50年以来对确定性人工智能研究的一些主要方法,分析其局限性,提出不确定性知识和智能研究的新领域.对不确定性智能的普遍性,数学基础,特征,表示,模型,推理机制,不确定性思维活动,云计算,语义计算等进行了深层次的研究,并讨论了它们在定性和定量相互转换,不确定性知识发现的物理学方法,智能控制,以及复杂网络中的不确定性计算等方面的实际应用,最后对不确定性人工智能研究的发展方向进行了展望.",
+          "doi": "",
+          "patent_no": "",
+          "type": "图书"
+        },
+        {
+          "title": "人工智能技术在输电网络故障诊断中的应用述评",
+          "authors": [
+            "毕天姝",
+            "倪以信",
+            "杨奇逊"
+          ],
+          "source": "《电力系统自动化》",
+          "date": "2000",
+          "link": "https://xueshu.baidu.com/usercenter/paper/show?paperid=c7bba95feefe98254e26e034f619a41f&site=xueshu_se",
+          "abstract": "简要介绍了相关的人工智能技术,如专家系统(expert system),人工神经网络(artificial neural network),模糊理论(fuzzy theory,遗传算法(genetic algorithms)及Petri网络(Petri net)等的基本概念,并在此基础上对文献中提出的相应的输电网络故障诊断方法进行述评,分析它们在输电网嶷故障诊断中应用的特点以及存在的主要问题,以促",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊"
+        },
+        {
+          "title": "人工智能技术在电站锅炉燃烧优化中的应用研究",
+          "authors": [
+            "王培红",
+            "李磊磊",
+            "陈强"
+          ],
+          "source": "《中国电机工程学报》",
+          "date": "2004",
+          "link": "https://xueshu.baidu.com/usercenter/paper/show?paperid=055125fc956f062200faef1854904af1&site=xueshu_se",
+          "abstract": "电站锅炉的运行面临降低运行成本与降低污染物排放的双重要求,高效低污染的优化决策问题日益引起关注.由于锅炉设备结构庞大,运行条件复杂,燃料性质多变等因素,建立电站锅炉排放特性的函数模型难度极大,为满足锅炉高效低污染燃烧优化研究的需要,该文借助优化燃烧特性试验数据,建立了电站锅炉热效率与NOx排放的响应特性的神经网络与解析函数的混合模型.文中使用了非函数形式的响应模型,燃烧优化采用了十进制遗传算法.优化数值解表明,该方法可针对锅炉热效率和NOx排放的不同优化目标,给出可行的调整各风门开度等操作量的优化控制方案.",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊"
+        },
+        {
+          "title": "人工智能原理",
+          "authors": [
+            "石纯一"
+          ],
+          "source": "",
+          "date": "1993",
+          "link": "https://xueshu.baidu.com/usercenter/paper/show?paperid=ab9bc8086859eee109d0148e4da73279&site=xueshu_se",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊"
+        }
+      ]
+    },
+    {
+      "source": "wanfang",
+      "status": "ok",
+      "count": 5,
+      "results": [
+        {
+          "title": "人工智能与企业投资效率提升",
+          "authors": [
+            "刘志伟",
+            "张秋生"
+          ],
+          "source": "《财经论丛（浙江财经学院学报）》",
+          "date": "2026",
+          "link": "https://s.wanfangdata.com.cn/paper?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&p=1",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊论文"
+        },
+        {
+          "title": "人工智能与地理学的未来",
+          "authors": [
+            "林耿",
+            "叶超",
+            "黄耿志"
+          ],
+          "source": "《热带地理》",
+          "date": "2026",
+          "link": "https://s.wanfangdata.com.cn/paper?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&p=1",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊论文"
+        },
+        {
+          "title": "人工智能时代的社会空间治理",
+          "authors": [
+            "郁建兴",
+            "谭立力"
+          ],
+          "source": "《热带地理》",
+          "date": "2026",
+          "link": "https://s.wanfangdata.com.cn/paper?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&p=1",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊论文"
+        },
+        {
+          "title": "城市人工智能产业密度与企业合规",
+          "authors": [
+            "杨锐",
+            "李荣荣"
+          ],
+          "source": "《财经论丛（浙江财经学院学报）》",
+          "date": "2026",
+          "link": "https://s.wanfangdata.com.cn/paper?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&p=1",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊论文"
+        },
+        {
+          "title": "量子人工智能:人工智能与量子计算的双向赋能机制与前沿进展",
+          "authors": [
+            "杨君侠",
+            "蔡淇智",
+            "郭晋荣"
+          ],
+          "source": "《物理学报》",
+          "date": "2026",
+          "link": "https://s.wanfangdata.com.cn/paper?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&p=1",
+          "abstract": "",
+          "doi": "",
+          "patent_no": "",
+          "type": "期刊论文"
+        }
+      ]
+    }
+  ],
+  "total": 10
+}
